@@ -1,0 +1,40 @@
+#prodact {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 6rem;
+}
+
+.prodacts {
+  background-image: url(/src/Aset/kopi.jpg);
+  color: white;
+  width: 100%;
+  border-radius: 25px;
+}
+.kopi {
+  padding-top: 70px;
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+  padding-top: 60px;
+}
+
+button {
+  cursor: pointer;
+  font-size: 16px;
+  padding: 4px 25px;
+  background-color: BURLYWOOD;
+  border: 0;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(16, 79, 116);
+}
+.kopi h1 {
+  font-weight: bold;
+}
+
+.kopi p {
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
